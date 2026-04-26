@@ -23,6 +23,8 @@ MonoBehaviour:
   - m_enabled: 1
     m_path: Assets/Scenes/OptionsMenu.unity
   - m_enabled: 1
+    m_path: Assets/Scenes/LevelsScene.unity
+  - m_enabled: 1
     m_path: Assets/Scenes/MenuScene.unity
   - m_enabled: 1
     m_path: Assets/Scenes/SampleScene.unity
