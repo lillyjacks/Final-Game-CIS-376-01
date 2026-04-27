@@ -5,18 +5,36 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
-    path: Assets/Scenes/main_menu.unity
-    guid: d7653037b10da0e43848a29ef0253012
-  - enabled: 1
-    path: Assets/Scenes/end_credits.unity
-    guid: 46466fdaa2dcbcd4a9d07b23abc1ad30
-  - enabled: 1
-    path: Assets/Scenes/reset_scene.unity
-    guid: acb9ee404a5780c4292b41ece524b079
-  - enabled: 1
-    path: Assets/Scenes/level_1.unity
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/MenuScene.unity
+    guid: ad044dec8de0d734490bb3cd7f4eb2fe
+  - enabled: 1
+    path: Assets/Scenes/Wyatt_Scenes/end_credits.unity
+    guid: caf01fe9d301d4e45b3d52a429ce0b2c
+  - enabled: 1
+    path: Assets/Scenes/Wyatt_Scenes/reset_scene_1.unity
+    guid: d7867764227f1a2488aeef741c8da4bc
+  - enabled: 1
+    path: Assets/Scenes/Wyatt_Scenes/reset_scene_2.unity
+    guid: ac397e16a6f86a244a72b7dce705c386
+  - enabled: 1
+    path: Assets/Scenes/level1.unity
+    guid: 8641f2520594bc349bc73d890abca734
+  - enabled: 1
+    path: Assets/Scenes/level2.unity
+    guid: 4398bc70e1e56b84f9d8e94ddeb809e5
+  - enabled: 1
+    path: Assets/Scenes/LevelsScene.unity
+    guid: 98cd2cf37bf8a0d47bd9145996e06bac
+  - enabled: 1
+    path: Assets/Scenes/OptionsMenu.unity
+    guid: dbbe3ee27e94c6f4ba9a00ddb6a74cdb
+  - enabled: 1
+    path: Assets/Scenes/Wyatt_Scenes/reset_scene_3 1.unity
+    guid: 78c35f441e738d143bae0ff4a4e87e63
   m_configObjects:
-    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: b0d48a099cfba6e419e87ff5dee672ae, type: 3}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
